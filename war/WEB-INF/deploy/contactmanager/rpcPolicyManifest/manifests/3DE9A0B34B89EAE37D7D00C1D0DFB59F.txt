@@ -1,0 +1,2 @@
+serviceClass: com.test.project.client.ContactService
+path: 0FB242D5166043BD0950557DCDF60078.gwt.rpc

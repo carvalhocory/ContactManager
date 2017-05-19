@@ -1,0 +1,3 @@
+# Module contactmanager
+# RPC service class, partial path of RPC policy file
+com.test.project.client.ContactService, 0FB242D5166043BD0950557DCDF60078.gwt.rpc
